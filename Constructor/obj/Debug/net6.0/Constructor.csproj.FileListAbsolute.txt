@@ -1,0 +1,15 @@
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\Constructor.csproj.AssemblyReference.cache
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\Constructor.AssemblyInfoInputs.cache
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\Constructor.AssemblyInfo.cs
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\Constructor.csproj.CoreCompileInputs.cache
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\Constructor.exe
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\Constructor.deps.json
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\Constructor.runtimeconfig.json
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\Constructor.dll
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\Constructor.pdb
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\Constructor.dll
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\refint\Constructor.dll
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\Constructor.pdb
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\Constructor.genruntimeconfig.cache
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\ref\Constructor.dll

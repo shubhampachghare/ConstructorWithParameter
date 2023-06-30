@@ -1,0 +1,15 @@
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\BAsics.csproj.AssemblyReference.cache
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\BAsics.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\BAsics.AssemblyInfoInputs.cache
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\BAsics.AssemblyInfo.cs
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\BAsics.csproj.CoreCompileInputs.cache
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\BAsics.exe
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\BAsics.deps.json
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\BAsics.runtimeconfig.json
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\BAsics.dll
+C:\RFP 289\Abstraction\Abstraction\bin\Debug\net6.0\BAsics.pdb
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\BAsics.dll
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\refint\BAsics.dll
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\BAsics.pdb
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\BAsics.genruntimeconfig.cache
+C:\RFP 289\Abstraction\Abstraction\obj\Debug\net6.0\ref\BAsics.dll
